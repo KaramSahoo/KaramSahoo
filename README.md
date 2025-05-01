@@ -43,7 +43,7 @@
   <tr>
     <!-- Octocat Image Column -->
     <td width="30%" align="center" style="padding: 0px;">
-      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="276" alt="Octocat"/>
+      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" alt="Octocat"/>
     </td>
 
   <!-- Tech Stack Grid Column -->
