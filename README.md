@@ -94,7 +94,7 @@
 <table width="100%">
   <tr>
     <!-- First Column: Contact Info + Sweet Message -->
-    <td width="25%" valign="center" align="center">
+    <td width="30%" valign="center" align="center">
       <div align="center" style="font-style: italic; font-size: 16px; color: #cccccc; margin-bottom: 10px;">
         “Awake, arise or be for ever fall’n.”<br>
         <span style="font-size: 14px;">― John Milton, <em>Paradise Lost</em></span>
@@ -132,11 +132,21 @@
             </th>
         </tr>
     </thead>
+        <thead>
+          <p>
+      <strong>Download My Resume</strong>
+    <a href="https://drive.google.com/file/d/1LXDc0FKsmkz5jmWdjyF5OCKSUQ0G27np/view?usp=drive_link" target="_blank">
+      📄
+    </a>
+    
+  </p>
+  <br>
+        </thead>
 </table>
     </td>
 
   <!-- Second Column: Publications -->
-  <td width="50%" valign="top">
+  <td width="70%" valign="top">
     <h3>📚 Publications</h3>
     <ul>
       <li>
@@ -158,25 +168,16 @@
       </li>
     </ul>
   </td>
-
-  <!-- Third Column: GitHub Widget -->
-  <td width="25%" valign="top" align="center">
-    <!-- Resume Download Row -->
-  <p>
-    <a href="https://drive.google.com/file/d/1LXDc0FKsmkz5jmWdjyF5OCKSUQ0G27np/view?usp=drive_link" target="_blank">
-      📄 <strong>Download My Resume</strong>
-    </a>
-  </p>
-  <br>
-
-  <!-- GitHub Stats Row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karamsahoo&show_icons=true&hide_rank=true&theme=github_dark" width="100%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamsahoo&hide_progress=true" width="100%"/>
-  
-  </td>
   </tr>
 </table>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karamsahoo/karamsahoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karamsahoo/karamsahoo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karamsahoo/karamsahoo/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
