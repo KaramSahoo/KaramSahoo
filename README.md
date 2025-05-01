@@ -43,45 +43,51 @@
   <tr>
     <!-- Octocat Image Column -->
     <td width="30%" align="center" style="padding: 0px;">
-      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" alt="Octocat"/>
+      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100%" alt="Octocat"/>
     </td>
 
   <!-- Tech Stack Grid Column -->
-  <td width="70%" style="padding: 0px;">
+  <td width="40%" style="padding: 0px;">
     <table align="center" style="border-collapse: collapse; width: 100%;">
       <tr>
-        <h3 align="left" style="margin-bottom: 0;">🚀 Here is a <em>subset</em> of my toolbelt</h3>
+        <h3 align="center" style="margin-bottom: 0;">🚀 Here is a <em>subset</em> of my toolbelt</h3>
 <!--         <p align="left" style="margin-top: 0;">From low-level logic to high-level creativity, these are the technologies I wield to bring ideas to life:</p></tr> -->
       <tr align="center">
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#</td>
+      </tr>
+      <tr align="center">
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
-      </tr>
-      <tr align="center">
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
+        </tr>
+      <tr align="center">
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/><br>Git</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/><br>Unity</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/><br>Next.js</td>
         <td style="padding: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/><br>OpenCV</td>
-        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
-        <td style="padding: 10px;"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="40"/><br>Power BI</td>
       </tr>
       <tr align="center">
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
+        <td style="padding: 10px;"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="40"/><br>Power BI</td>
         <td style="padding: 10px;"><img src="https://static.cdnlogo.com/logos/p/64/photoshop-cc.svg" width="40"/><br>Photoshop</td>
-        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/><br>Illustrator</td>
+        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/><br>Illustrator</td>      
+      </tr>
+      <tr align="center">
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>Figma</td>
         <td style="padding: 10px;"><img src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg" width="40"/><br>Tailwind</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/><br>Blender</td>
         <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br>Postman</td>
-        <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode</td>
       </tr>
-      
   </table>
   </td>
+  <!-- Octocat Image Column -->
+    <td width="30%" align="center" style="padding: 0px;">
+      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100%" alt="Octocat"/>
+    </td>
   </tr>
 </table>
 
@@ -96,23 +102,37 @@
       <hr>
       <h3>📬 Let's Connect!</h3>
       <p>Always happy to chat about AI, Art, or anything in between. Feel free to reach out 😊</p>
-      <p>
-        <a href="mailto:karamsahoo@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-        <a href="https://www.linkedin.com/in/karamsahoo" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="https://www.facebook.com/KaramKumarSahoo" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-        </a>
-        <a href="https://www.instagram.com/a_cosmic_teen" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        </a>
-        <a href="https://www.behance.net/karamsahoo" target="_blank">
-          <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-        </a>
-      </p>
+      <table align="center">
+    <thead align="center">
+        <tr>
+            <th>
+                <a href="https://www.github.com/karamsahoo" target="_blank" rel="noopener noreferrer" title="github.com/karamsahoo">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="20px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:karamsahoo@gmail.com" target="_blank" rel="noopener noreferrer" title="karamsahoo@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="20px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/KaramKumarSahoo" target="_blank" rel="noopener noreferrer" title="facebook.com/KaramKumarSahoo">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="20px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.instagram.com/a_cosmic_teen" target="_blank" rel="noopener noreferrer" title="instagram.com/a_cosmic_teen">
+                    <img loading="lazy" alt="x icon" src="https://cdn.simpleicons.org/instagram/EB008B" width="20px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.behance.net/karamsahoo" target="_blank" rel="noopener noreferrer" title="behance.net/karamsahoo">
+                    <img loading="lazy" alt="behance icon" src="https://cdn.simpleicons.org/behance/EB008B" width="20px">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
     </td>
 
   <!-- Second Column: Publications -->
@@ -141,8 +161,19 @@
 
   <!-- Third Column: GitHub Widget -->
   <td width="25%" valign="top" align="center">
-    <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=karamsahoo&show_icons=true&theme=react&hide_border=true" width="100%" alt="GitHub Stats"/>
+    <!-- Resume Download Row -->
+  <p>
+    <a href="https://drive.google.com/file/d/1LXDc0FKsmkz5jmWdjyF5OCKSUQ0G27np/view?usp=drive_link" target="_blank">
+      📄 <strong>Download My Resume</strong>
+    </a>
+  </p>
+  <br>
+
+  <!-- GitHub Stats Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karamsahoo&show_icons=true&hide_rank=true&theme=github_dark" width="100%"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamsahoo&hide_progress=true" width="100%"/>
+  
   </td>
   </tr>
 </table>
