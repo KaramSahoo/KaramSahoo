@@ -89,18 +89,28 @@
   <tr>
     <!-- First Column: Contact Info + Sweet Message -->
     <td width="25%" valign="center" align="center">
+      <div align="center" style="font-style: italic; font-size: 16px; color: #cccccc; margin-bottom: 10px;">
+        “Awake, arise or be for ever fall’n.”<br>
+        <span style="font-size: 14px;">― John Milton, <em>Paradise Lost</em></span>
+      </div>
+      <hr>
       <h3>📬 Let's Connect!</h3>
       <p>Always happy to chat about AI, Art, or anything in between. Feel free to reach out 😊</p>
-      <p><strong>Email:</strong><br><a href="mailto:karamsahoo@gmail.com">karamsahoo@gmail.com</a></p>
       <p>
+        <a href="mailto:karamsahoo@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
         <a href="https://www.linkedin.com/in/karamsahoo" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://github.com/karamsahoo" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <a href="https://www.facebook.com/KaramKumarSahoo" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
         </a>
-        <a href="https://twitter.com/karamcodes" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+        <a href="https://www.instagram.com/a_cosmic_teen" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+        <a href="https://www.behance.net/karamsahoo" target="_blank">
+          <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
         </a>
       </p>
     </td>
@@ -110,21 +120,21 @@
     <h3>📚 Publications</h3>
     <ul>
       <li>
-        <strong>Third-AI: Enhancing VR Accessibility with a Real-Time Visual Question Answering System</strong><br>
-        <em>First Author</em> – ACM ASSETS 2024<br>
-        <a href="https://doi.org/10.1145/XXXXXXX" target="_blank">DOI: 10.1145/XXXXXXX</a>
+        <strong>Wrapper-based deep feature optimization for activity recognition in the wearable sensor networks of healthcare systems</strong><br>
+        <em>First Author</em> – Scientific Reports<br>
+        <a href="https://www.nature.com/articles/s41598-022-27192-w" target="_blank">DOI: 10.1038/s41598-022-27192-w </a>
       </li>
       <br>
       <li>
-        <strong>Designing for Empathy: A VR Framework for Blind & Low Vision Users</strong><br>
-        <em>First Author</em> – IEEE VR 2024 Workshop on Inclusive HCI<br>
-        <a href="https://doi.org/10.1109/XXXXXXX" target="_blank">DOI: 10.1109/XXXXXXX</a>
+        <strong>TLEFuzzyNet: Fuzzy rank-based ensemble of transfer learning models for emotion recognition from human speeches</strong><br>
+        <em>First Author</em> – IEEE Access 9<br>
+        <a href="https://ieeexplore.ieee.org/document/9650900" target="_blank">DOI: 10.1109/ACCESS.2021.3135658</a>
       </li>
       <br>
       <li>
-        <strong>Indigenous Bird Species Classifier using ResNet</strong><br>
-        <em>Co-Author</em> – International Journal of AI Research 2023<br>
-        <a href="https://doi.org/10.1234/ijair.2023.birds" target="_blank">DOI: 10.1234/ijair.2023.birds</a>
+        <strong>MIC_FuzzyNET: Fuzzy Integral Based Ensemble for Automatic Classification of Musical Instruments From Audio Signals</strong><br>
+        <em>First Author</em> – IEEE Access 9<br>
+        <a href="https://ieeexplore.ieee.org/document/9895384/" target="_blank">DOI: 10.1109/ACCESS.2022.3208126</a>
       </li>
     </ul>
   </td>
