@@ -1,7 +1,8 @@
 <table style="border-color: transparent;" cellspacing=0 >
 <!-- Top Row: Full Width Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner" width="100%" />
+<!--   <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner" width="100%" /> -->
+  
 </p>
 </table>
 
